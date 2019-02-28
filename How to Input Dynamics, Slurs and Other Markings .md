@@ -1,0 +1,45 @@
+# How to Input Dynamics, Slurs and Other Markings 
+
+[How to Input Dynamics, Slurs and Other Markings | Start Working with Dorico](https://youtu.be/xiavwTdRkNU)
+
+| 내용                         | 링크                                      |
+| ---------------------------- | ----------------------------------------- |
+| 우측 Panel 소개              | [Link](https://youtu.be/xiavwTdRkNU?t=10) |
+| Popover를 사용한 이벤트 편집 | [Link](https://youtu.be/xiavwTdRkNU?t=40) |
+| Slur 입력                    | [Link](https://youtu.be/xiavwTdRkNU?t=88) |
+
+
+
+## 우측 Panel 소개
+
+- Write 모드에서 우측에 위치
+- clef, key signature, meter, tempo 등을 변경할 수 있다.
+
+
+
+## Popover를 사용한 이벤트 편집
+
+Dorico에서는 입력하고 싶은 장소의 노트를 선택한 다음에 `shift + 캐릭터` 를 입력하면 화면에 popover 창이 생성된다.
+
+- Key Signature: `shift+k`
+- Clef : `shift  + c`
+- Meter: `shift + m`
+- Tempo: `shift + t`
+- Dynamics: `shft + d`
+
+
+
+## Slur 입력
+
+- slur를 입력하고 싶은 구간을 드래르고 선택하고 `s` 를 입력
+
+
+
+## Dynamics 입력
+
+- Dynamics를 변경하고 싶은 구간을 드래르고 선택하고 `shft + d` 사용
+- `p<f` : p부터 f까지 crescendo
+- dynamics letter를 선택하고 우측 패널에서 해당 이벤트만 변경할 수 있다.
+
+
+
